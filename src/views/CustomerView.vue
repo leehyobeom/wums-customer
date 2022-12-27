@@ -8,7 +8,7 @@
   import { defineComponent } from 'vue';
   import wums from '@leehyobeom/wums';
   export default defineComponent({
-    name: 'UserFrontView',
+    name: 'CustomerView',
     components: {
       wums,
     },
