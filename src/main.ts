@@ -15,7 +15,6 @@ const apolloProvider = createApolloProvider({
   defaultClient: apolloClient,
 })
 loadFonts()
-
 createApp(App)
   .use(apolloProvider)
   .use(router)
