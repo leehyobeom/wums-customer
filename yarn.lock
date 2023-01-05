@@ -1369,10 +1369,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@leehyobeom/wums@^0.0.28":
-  "integrity" "sha512-JeZfxHpKLAac+a+Hv7i9zHNVen0/e493+KJhyx/fi6iOBRuOs+XyB/rRXao53TuXz2Y8g5MdS7E4TTyH/8fLdw=="
-  "resolved" "https://npm.pkg.github.com/download/@leehyobeom/wums/0.0.28/b8c9c1cf0cf1fce82db752e7ca7cdc88915a8b41"
-  "version" "0.0.28"
+"@leehyobeom/wums@^0.0.29":
+  "integrity" "sha512-+8lBp8JBr//sTz0yNRRCzAdhuRrT7cgXePn9XS1HfEhf8OthQ18+XGCfWJQQUaw4LrAYn/WnXpbMnnsyNEqacQ=="
+  "resolved" "https://npm.pkg.github.com/download/@leehyobeom/wums/0.0.29/a52ef4bfe811052445ae7589a867915dda1b9e16"
+  "version" "0.0.29"
   dependencies:
     "@apollo/client" "^3.7.1"
     "@vue/apollo-option" "^4.0.0-alpha.20"
