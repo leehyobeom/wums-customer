@@ -11,7 +11,7 @@
   "dependencies": {
     "@apollo/client": "^3.7.1",
     "@cycjimmy/semantic-release-action": "^3.1.1",
-    "@leehyobeom/wums": "^0.0.29",
+    "@leehyobeom/wums": "^0.0.30",
     "@mdi/font": "5.9.55",
     "@vue/apollo-composable": "^4.0.0-beta.1",
     "@vue/apollo-option": "^4.0.0-alpha.20",
